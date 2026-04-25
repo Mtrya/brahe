@@ -1,5 +1,5 @@
 Downloading Capella satellite TLEs from CelesTrak...
-Found 8 Capella satellites in 0.19 seconds
+Found 8 Capella satellites in 0.27 seconds
   - CAPELLA-11 (ACADIA-1)
   - CAPELLA-14 (ACADIA-4)
   - CAPELLA-13 (ACADIA-3)
@@ -52,21 +52,21 @@ Using 33 external stations for downlink:
   - Weilheim (11.08, 47.88)
 
 Computing AOI exit events...
-Found 287 AOI exit events in 11.87 seconds
+Found 303 AOI exit events in 10.24 seconds
 
 Computing ground station contacts...
-Computed 10229 ground contact windows in 15.71 seconds
+Computed 10209 ground contact windows in 12.59 seconds
 
 Computing imaging data latencies...
-Computed 287 latency values in 0.06 seconds
+Computed 303 latency values in 0.03 seconds
 
 ====================================================================================================
 Imaging Data Latency Statistics
 ====================================================================================================
-  Worst (Max):  54 minutes and 25.05 seconds
-  Best (Min):   9.64 seconds
-  Average:      14 minutes and 23.62 seconds
-  Median:       5 minutes and 34.64 seconds
+  Worst (Max):  54 minutes and 31.37 seconds
+  Best (Min):   6.78 seconds
+  Average:      13 minutes and 24.48 seconds
+  Median:       5 minutes and 20.65 seconds
 ====================================================================================================
 
 ========================================================================================================================
@@ -74,21 +74,21 @@ Top 5 Worst Imaging Data Latencies
 ========================================================================================================================
 Satellite                 AOI Exit Time                Contact Start                Station                      Latency
 ------------------------------------------------------------------------------------------------------------------------
-CAPELLA-19 (ACADIA-9)     2026-04-20 11:27:52          2026-04-20 12:22:17          Bangalore            54 minutes and 25.05 seconds
-CAPELLA-17 (ACADIA-7)     2026-04-19 19:11:00          2026-04-19 20:05:24          Bangalore            54 minutes and 23.77 seconds
-CAPELLA-18 (ACADIA-8)     2026-04-18 11:24:47          2026-04-18 12:19:03          Bangalore            54 minutes and 16.26 seconds
-CAPELLA-15 (ACADIA-5)     2026-04-19 16:26:42          2026-04-19 17:20:57          Bangalore            54 minutes and 14.61 seconds
-CAPELLA-17 (ACADIA-7)     2026-04-18 19:02:16          2026-04-18 19:56:19          Bangalore            54 minutes and 2.95 seconds
+CAPELLA-16 (ACADIA-6)     2026-04-27 16:39:25          2026-04-27 17:33:56          Bangalore            54 minutes and 31.37 seconds
+CAPELLA-19 (ACADIA-9)     2026-04-27 11:27:47          2026-04-27 12:22:12          Bangalore            54 minutes and 24.83 seconds
+CAPELLA-18 (ACADIA-8)     2026-04-25 11:24:58          2026-04-25 12:19:14          Bangalore            54 minutes and 16.83 seconds
+CAPELLA-16 (ACADIA-6)     2026-04-26 16:33:10          2026-04-26 17:27:25          Bangalore            54 minutes and 15.13 seconds
+CAPELLA-17 (ACADIA-7)     2026-04-29 19:04:43          2026-04-29 19:58:52          Bangalore            54 minutes and 9.55 seconds
 ========================================================================================================================
 
 ✓ Exported top 5 latencies to docs/figures/imaging_data_latency_top5.csv
 ✓ Exported statistics to docs/figures/imaging_data_latency_stats.csv
 
 Creating ground track visualization for top 3 worst latencies...
-  Gap 1: 55 points, 2 segments, latency=54m 25s
-  Gap 2: 55 points, 2 segments, latency=54m 23s
+  Gap 1: 56 points, 2 segments, latency=54m 31s
+  Gap 2: 56 points, 2 segments, latency=54m 24s
   Gap 3: 55 points, 2 segments, latency=54m 16s
-Created ground track visualization in 0.30 seconds.
+Created ground track visualization in 0.20 seconds.
 
 ✓ Generated imaging_data_latency_groundtrack_light.svg
 ✓ Generated imaging_data_latency_groundtrack_dark.svg
