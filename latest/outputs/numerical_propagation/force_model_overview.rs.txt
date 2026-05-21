@@ -4,3 +4,4 @@ SRP: Some(SolarRadiationPressureConfiguration { area: ParameterIndex(3), cr: Par
 Third-body: Some(ThirdBodyConfiguration { ephemeris_source: DE440s, bodies: [Sun, Moon] })
 Relativity: true
 Mass: Some(Value(1000.0))
+Frame transform: FullEarthRotation

@@ -1,6 +1,6 @@
 Sun-synchronous LEO (800 km, circular):
   Inclination: 98.603 degrees
-  Inclination: 1.720948 radians
+  Inclination: 1.720949 radians
 
 Sun-synchronous inclination vs altitude (circular orbits):
    500 km: 97.402 deg
@@ -13,7 +13,7 @@ Sun-synchronous inclination vs altitude (circular orbits):
 Sun-synchronous inclination vs eccentricity (700 km orbit):
   e = 0.000: 98.188 deg
   e = 0.001: 98.188 deg
-  e = 0.005: 98.187 deg
+  e = 0.005: 98.188 deg
   e = 0.010: 98.186 deg
   e = 0.020: 98.181 deg
 

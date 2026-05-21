@@ -1,8 +1,9 @@
 Module,Tasks,Avg Python Speedup,Avg Rust Speedup
-Time,5,44.1×,190.1×
-Coordinates,5,2.76×,108.8×
-Attitude,4,7.75×,225.4×
-Frames,2,3.45×,3.03×
-Orbits,2,6.19×,67.1×
-Propagation,5,0.75×,0.81×
-Access,1,4.54×,4.53×
+Time,5,46.1×,194.1×
+Coordinates,5,3.36×,143.0×
+Attitude,4,7.28×,340.8×
+Frames,2,31.9×,40.3×
+Orbits,2,6.06×,71.9×
+Propagation,8,6.60×,14.6×
+Force Model,5,1.34×,84.6×
+Access,1,4.72×,4.67×

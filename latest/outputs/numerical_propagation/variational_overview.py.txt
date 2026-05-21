@@ -7,7 +7,7 @@ Initial State:
 
 --- State Transition Matrix (STM) ---
 STM shape: (6, 6)
-STM determinant: 0.999999 (should be ~1 for conservative forces)
+STM determinant: 1.000000 (should be ~1 for conservative forces)
 STM at t/2 available: True
 
 --- Covariance Propagation ---
