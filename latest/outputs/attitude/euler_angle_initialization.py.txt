@@ -17,23 +17,23 @@ Single-axis rotation (45° about Z using ZYX):
 
 From quaternion (45° about Z):
   Yaw (Z):   45.0°
-  Pitch (Y): 0.0°
-  Roll (X):  -0.0°
+  Pitch (Y): -0.0°
+  Roll (X):  0.0°
 
 From rotation matrix (45° about Z):
   Yaw (Z):   45.0°
-  Pitch (Y): 0.0°
-  Roll (X):  -0.0°
+  Pitch (Y): -0.0°
+  Roll (X):  0.0°
 
 From Euler axis (45° about Z):
   Yaw (Z):   45.0°
-  Pitch (Y): 0.0°
-  Roll (X):  -0.0°
+  Pitch (Y): -0.0°
+  Roll (X):  0.0°
 
 XZY Euler angles from ZYX:
-  Angle 1 (X): 20.8°
-  Angle 2 (Z): 50.8°
-  Angle 3 (Y): 14.5°
+  Angle 1 (X): 16.1°
+  Angle 2 (Z): 36.3°
+  Angle 3 (Y): 40.6°
   Order: XZY
 
 Converted back to ZYX order (same rotation):
